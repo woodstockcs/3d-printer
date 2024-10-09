@@ -1,2 +1,9 @@
 # 3d-printer
-This repo manages the print queue for our 3d printer in Room 26.
+Room 26 has one Prusa MK3S+ printer for student and staff use. Contact Andy for details and questions.
+
+# Filament
+We use standard PLA, mostly Overture and Hatchbox brands.
+
+Here are the available filament colors:
+![IMG_0381](https://github.com/user-attachments/assets/fced4cd7-9c2d-4855-8716-64e961c7d5d0)
+
