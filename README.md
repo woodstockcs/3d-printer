@@ -1,6 +1,8 @@
 # 3d-printer
 Room 26 has one Prusa MK3S+ printer for student and staff use. Contact Andy for details and questions.
 
+The live print queue is [here](https://github.com/orgs/woodstockcs/projects/4).
+
 # Filament
 We use standard PLA, mostly Overture and Hatchbox brands.
 
